@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Use-of-preposition  
+  A preposition is a word that helps connect nouns and pronouns with a verb or adjective in a sentence. The five types of prepositions are simple, double, compound, participle, and phrase prepositions. Prepositional phrases contain a preposition plus a noun or pronoun?
+There is nothing wrong with ending a sentence in a preposition like to, with, for, or at. English speakers have been doing so since the days of Old English. The people who claim that a terminal preposition is wrong are clinging to an idea born in the 17th century and largely abandoned by grammar and usage experts in the early 20th.
+A preposition is a word—and almost always a very small, very common word—that shows direction (to in "a letter to you"), location (at in "at the door"), or time (by in "by noon"), or that introduces an object (of in "a basket of apples"). Prepositions are typically followed by an object, which can be a noun (noon), a noun phrase (the door), or a pronoun (you).
 
-You can use the [editor on GitHub](https://github.com/sujal-pandeyy15/Use-of-preposition/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# What is an example of a preposition?
+The most common prepositions are at, by, for, from, in, of, on, to, and with. Other common prepositions are about, above, across, after, against, along, among, around, because of, before, behind, below, beneath, beside, between, close to, down, during, except, inside, instead of, into, like, near, off, on top of, onto, out of, outside, over, past, since, through, toward, under, until, up, upon, within, without.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# kind of prepositions
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sujal-pandeyy15/Use-of-preposition/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+matter of a proposition
+angle of position
+general proposition
+pure proposition
+law of superposition
+law of transposition
+square of opposition
+acid deposition
+angle of reflection
+angle of refraction
+power of revocation
+right of petition 
+# There are five different types of prepositions:
+Simple prepositions.
+Double prepositions.
+Compound prepositions.
+Participle prepositions.
+Phrase prepositions
